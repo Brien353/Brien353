@@ -32,7 +32,7 @@ I'm **Brien Navarro**, a mathematics enthusiast and researcher from **Zacatecas,
 ---
 
 ## 📫 How to reach me
-- 📧 Email: **brien.math353@gmail.com**  
+- 📧 Email: **briennavarroambriz@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/briennavarro](https://linkedin.com/in/briennavarro)  
 - 🧠 GitHub: [@Brien353](https://github.com/Brien353)
 
