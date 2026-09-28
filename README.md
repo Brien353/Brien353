@@ -1,52 +1,26 @@
-# 👋 Hi, I’m @Brien353
+# About me
+* My name is **Brien Navarro**. I am a Mathematician with a Master of Science in Mathematics.
+* I enjoy solving complex problems and communicating complex ideas.
+* I am an aspiring Machine Learning Engineer focused on joining high-impact Big Tech engineering teams
+* I think that AI-driven data insights have the power to transform lives.
 
-I'm **Brien Navarro**, a mathematics enthusiast and researcher from **Zacatecas, Mexico** 🇲🇽. I hold a **Bachelor's degree in Mathematics** and a **Master of Science in Mathematics** from the **Autonomous University of Zacatecas**. My passion lies in using mathematical thinking to solve real-world problems through **data science**, **machine learning**, and **programming**.
+# Technical Interests
+- **Machine Learning & AI:**  Machine Learninig (ML), Natural Language Processing , Large Language Models (LLMs) , Optimization.
+- **Mathematics and Theory:** Advanced Statistics, Competitive Programming (ACM-ICPC), Mathematical Research.
+- **Data and systems:** Exploratory Data Analysis (EDA), High-Performance Data Processing, MLOps Architecture.
+  
+# Programming Languages & Tools
+- **Languages:** Python, SQL, R
+- **Data and ML libraries:** Pandas, Numpy, Scikit-learn, SciPy, DuckDB.
+- **Cloud & MLOps:** AWS (EC2, S3, Lambda), Docker, GitHub Actions, CI/CD Pipelines
+- **Environment:** Linux / Bash, Git, GitHub / GitLab
+  
+ # Contact Information
+ - Linkedin : Brien Navarro
+ - Phone: +52 492-218-5745
+ - Mail : Briennavarroambriz@gmail.com
+ - YouTube : Brien Navarro.
 
----
 
-## 👀 I’m interested in...
-- Data Science & Machine Learning  
-- Statistics & Data Analysis  
-- Competitive Programming (ICPC-style contests)  
-- Scientific Computing  
-- Medical Research Applications  
-- Innovative & collaborative tech projects
-
----
-
-## 🌱 I’m currently learning...
-- Advanced Machine Learning & Deep Learning techniques  
-- Data Engineering and ETL processes  
-- Applied Medical Statistics  
-- Cloud Tools for Scalable Data Science  
-- Best practices in collaborative software development  
-
----
-
-## 💞️ I’m looking to collaborate on...
-- Open-source projects related to data and AI  
-- Competitions and hackathons  
-- Research-driven data analysis projects  
-- Projects at the intersection of math, medicine, and machine learning
-
----
-
-## 📫 How to reach me
-- 📧 Email: **briennavarroambriz@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/briennavarro](https://linkedin.com/in/briennavarro)  
-- 🧠 GitHub: [@Brien353](https://github.com/Brien353)
-
----
-
-## 😄 Pronouns
-**He/Him**
-
----
-
-## ⚡ Fun fact
-Besides math and coding, I enjoy going to the gym, reading medical textbooks 📚, discussing ideas, and turning them into **unique, impactful solutions** with motivated teams.  
-
-<!---
-Brien353/Brien353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   
+  
